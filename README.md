@@ -66,7 +66,7 @@ These values are displayed in the `Analysis` sheet and linked to the dashboard u
 │   └── Globalsales_Coffeeshop_Dashboard.xlsx 
 │   └── Raw_Data.xlsx
 │
-├── 📁 VISUALS/               
+├── 📁 IMAGES/               
 │   ├── Dashboard_globalsales.png
 │   ├── PivotTable.png
 │   └── PowerPivot.png
