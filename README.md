@@ -62,11 +62,11 @@ These values are displayed in the `Analysis` sheet and linked to the dashboard u
 ## 📁 Project Structure:
 📦 MULTINATIONAL_COFFEESHOP_SALES/
 │
-├── 📁 Data/
-│   └── coffee_sales_multinational.xlsx 
-│   └── Raw_data.xlsx
+├── 📁 DATA/
+│   └── Globalsales_Coffeeshop_Dashboard.xlsx 
+│   └── Raw_Data.xlsx
 │
-├── 📁 Images/               
+├── 📁 VISUALS/               
 │   ├── Dashboard_globalsales.png
 │   ├── PivotTable.png
 │   └── PowerPivot.png
