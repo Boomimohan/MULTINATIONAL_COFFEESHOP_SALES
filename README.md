@@ -63,10 +63,12 @@ These values are displayed in the `Analysis` sheet and linked to the dashboard u
 📦 MULTINATIONAL_COFFEESHOP_SALES/
 │
 ├── 📁 Data/
-│   └── coffee_sales_multinational.xlsx  
+│   └── coffee_sales_multinational.xlsx 
+│   └── Raw_data.xlsx
 │
-├── 📁 screenshots/               
-│   ├── global_dashboard_preview.pngg
-│   └── pivot_table.png
+├── 📁 Images/               
+│   ├── Dashboard_globalsales.png
+│   ├── PivotTable.png
+│   └── PowerPivot.png
 │
 ├── 📄 README.md                             
