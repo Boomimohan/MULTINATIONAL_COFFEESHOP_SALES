@@ -9,7 +9,7 @@ This project aims to transform raw transactional data into actionable insights u
 - Pivot Tables & Pivot Charts
 - Slicers
 - Gradient Design & Color Palette Customization
-- Excel Formulas (SUM, AVERAGE, MAX, MIN)
+- Excel Formulas 
 - Sheet-level cell referencing
 
 ## 📊 Skills Demonstrated:
